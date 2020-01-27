@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   s.author       = { "Naoufal Kadhom" => "naoufalkadhom@gmail.com" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/naoufal/react-native-passcode-auth" }
+  s.source       = { :git => "https://github.com/ignitho/react-native-passcode-auth" }
 
   s.source_files  = "*.{h,m}"
   s.dependency "React"
